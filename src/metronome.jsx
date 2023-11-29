@@ -2,8 +2,6 @@ import { Component } from 'react';
 import click1 from './assets/click1.mp3';
 import click2 from './assets/click2.mp3';
 
-import './Metronome.css';
-
 class Metronome extends Component {
   constructor(props) {
     super(props);
