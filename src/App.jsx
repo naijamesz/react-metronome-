@@ -1,5 +1,4 @@
 import Metronome from './metronome';
-import './Metronome.css';
 
 function App() {
   return (
